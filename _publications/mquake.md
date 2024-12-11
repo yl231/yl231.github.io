@@ -1,7 +1,7 @@
 ---
 title: "MQuAKE-Remastered: Multi-Hop Knowledge Editing Can Only Be Advanced with Reliable Evaluations"
 collection: publications
-category: insubmission
+category: inSubmission
 permalink: /publications/mquake/
 authors:
   - Shaochen Zhong*
