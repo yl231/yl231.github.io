@@ -1,11 +1,11 @@
 ---
 title: "MQuAKE-Remastered: Multi-Hop Knowledge Editing Can Only Be Advanced with Reliable Evaluations"
 collection: publications
-category: inSubmission
 permalink: /publications/mquake/
+date: 2024-10-02
 authors:
-  - Shaochen Zhong*
   - Yifan Lu*
+  - Shaochen Zhong*
   - Lize Shao
   - Bhargav Bhushanam
   - Xiaocong Du
@@ -21,6 +21,7 @@ authors:
   - Vipin Chaudhary
   - Xia Hu
 venue: "arXiv Preprint"
-paper_url: "https://arxiv.org/abs/<your_arxiv_link>" # Replace with actual link
 layout: publication
+category: inSubmission
+review_status: "Currently under review by ICLR (score: 6666)"
 ---
