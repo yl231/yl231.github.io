@@ -2,21 +2,50 @@
 layout: default
 ---
 
-<h2>{{ page.title }}</h2>
-<p><strong>Authors:</strong> {{ page.authors | join: ", " }}</p>
-<p><strong>Venue:</strong> {{ page.venue }}</p>
-{% if page.review_status %}
-  <p><strong>Review Status:</strong> {{ page.review_status }}</p>
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
 {% endif %}
-{% if page.paper_url %}
-  <p><a href="{{ page.paper_url }}" target="_blank">Read the paper on arXiv</a></p>
+
+{% if page.url != "/" and site.breadcrumbs %}
+  {% unless paginator %}
+    {% include breadcrumbs.html %}
+  {% endunless %}
 {% endif %}
-{% if page.openreview_url %}
-  <p><a href="{{ page.openreview_url }}" target="_blank">OpenReview Discussion</a></p>
-{% endif %}
-{% if page.comments %}
-  <div class="comments">
-    <h3>Comments</h3>
-    <p>{{ page.comments | markdownify }}</p>
+
+<div id="main" role="main">
+  {% include sidebar.html %}
+
+  <div class="archive">
+    {% unless page.header.overlay_color or page.header.overlay_image %}
+      <h1 class="page__title">{{ page.title }}</h1>
+    {% endunless %}
+    
+    <div class="publications">
+      {% for post in site.publications %}
+        <div class="publication">
+          <h2 class="publication-title">
+            <a href="{{ post.permalink }}">{{ post.title }}</a>
+          </h2>
+          <p class="publication-authors"><strong>Authors:</strong> {{ post.authors | join: ", " }}</p>
+          <p class="publication-venue"><strong>Venue:</strong> {{ post.venue }}</p>
+          {% if post.review_status %}
+            <p class="publication-review-status"><strong>Review Status:</strong> {{ post.review_status }}</p>
+          {% endif %}
+          {% if post.paper_url %}
+            <p><a href="{{ post.paper_url }}" target="_blank">Read the paper</a></p>
+          {% endif %}
+          {% if post.openreview_url %}
+            <p><a href="{{ post.openreview_url }}" target="_blank">OpenReview Discussion</a></p>
+          {% endif %}
+          {% if post.comments %}
+            <div class="publication-comments">
+              <h3>Comments</h3>
+              <p>{{ post.comments | markdownify }}</p>
+            </div>
+          {% endif %}
+        </div>
+        <hr />
+      {% endfor %}
+    </div>
   </div>
-{% endif %}
+</div>
