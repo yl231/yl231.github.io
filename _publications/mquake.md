@@ -21,9 +21,7 @@ authors:
   - Vipin Chaudhary
   - Xia Hu
 venue: "arXiv Preprint"
-paper_url: "https://arxiv.org/abs/<your_arxiv_link>" # Replace with actual link
 review_status: "Currently under review by ICLR (score: 6666)"
-openreview_url: "https://openreview.net/forum?id=m9wG6ai2Xk"
 layout: publication
 category: inSubmission
 comments: |
