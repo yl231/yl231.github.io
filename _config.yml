@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "yifan_bio.jpg"
   name             : "Yifan Lu"
-  pronouns         : "He/Him" # example: "she/her"  
+  pronouns         : # example: "she/her"  
   bio              : "Final-Year Undergraduate from Rice Univerity. I am actively seeking for PhD position for Fall 2025 with a research focus on LLM, Data Management, and Data-centric ML."
   location         : "Houston, TX"
   employer         : "Rice University"
@@ -77,7 +77,7 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   insubmission:
-    title: In Submission
+    title: 'In Submission'
   conferences:
     title: 'Conference Papers'
 
