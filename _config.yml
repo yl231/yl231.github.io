@@ -12,7 +12,7 @@ title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Yifan Lu"
 description              : &description "personal description"
-url                      : https://yl231.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://yifanlu.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -21,18 +21,17 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "yifan_bio.jpg"
+  avatar           : "Louie Lu 1.jpg"
   name             : "Yifan Lu"
   pronouns         : # example: "she/her"  
-  bio              : "Final-Year Undergraduate from Rice Univerity. I am actively seeking for PhD position for Fall 2025 with a research focus on LLM, Data Management, and Data-centric ML."
-  location         : "Houston, TX"
+  bio              : "First-Year PhD student from Rice Univerity adviced by Prof. Xia (Ben) Hu. Due to Prof. Hu's leave of Rice, I am actively seeking for PhD position for Fall 2026 with a research focus on LLM, Multi-Model Collaboration, and ML efficiency."
   employer         : "Rice University"
   URI              : "https://www.rice.edu/" # URL
   email            : "yl231@rice.edu" 
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
-  # googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=TVqeW7gAAAAJ"
   # impactstory      : # URL
   # orcid            : "http://orcid.org/yourorcidurl"
   # semantic         : # URL
@@ -58,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/yifan-lu-471611241/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
