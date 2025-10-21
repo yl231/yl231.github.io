@@ -5,16 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Conference Papers
 
 ### MQuAKE-Remastered: Multi-Hop Knowledge Editing Can Only Be Advanced with Reliable Evaluations
 **Authors:** Shaochen Zhong\*, **Yifan Lu\***, Lize Shao, Bhargav Bhushanam, Xiaocong Du, Yixin Wan, Yucheng Shi, Daochen Zha, Yiwei Wang, Ninghao Liu, Kaixiong Zhou, Shuai Xu, Kai-Wei Chang, Louis Feng, Vipin Chaudhary, Xia Hu  
 **Status:** ICLR 2025 (Spotlight)  
 **Links:** [OpenReview](https://openreview.net/forum?id=m9wG6ai2Xk)
-
----
-
-## In Submission
 
 ### Who Routes the Router: Rethinking the Evaluation of LLM Routing Systems
 **Authors:** Jiayi Yuan\*, **Yifan Lu\***, Rixin Liu, Yu-Neng Chuang, Hongyi Liu, Shaochen Zhong, Yang Sui, Guanchu Wang, Jiarong Xing, Xia Hu  
