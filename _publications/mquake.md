@@ -1,11 +1,11 @@
 ---
-title: "MQuAKE-Remastered: Multi-Hop Knowledge Editing Can Only Be Advanced with Reliable Evaluations"
+title: "[MQuAKE-Remastered: Multi-Hop Knowledge Editing Can Only Be Advanced with Reliable Evaluations](https://openreview.net/forum?id=m9wG6ai2Xk)"
 collection: publications
 permalink: /publications/mquake/
 date: 2024-08-01
 authors:
   - Shaochen Zhong*
-  - Yifan Lu*
+  - **Yifan Lu***
   - Lize Shao
   - Bhargav Bhushanam
   - Xiaocong Du

@@ -1,11 +1,11 @@
 ---
-title: "Who Routes the Router: Rethinking the Evaluation of LLM Routing Systems"
+title: "[Who Routes the Router: Rethinking the Evaluation of LLM Routing Systems](https://openreview.net/forum?id=EEPostHMtF)"
 collection: publications
 permalink: /publications/routing-evaluation/
 date: 2024-09-24
 authors:
   - Jiayi Yuan*
-  - Yifan Lu*
+  - **Yifan Lu***
   - Rixin Liu
   - Yu-Neng Chuang
   - Hongyi Liu

@@ -6,7 +6,7 @@ date: 2024-11-01
 authors:
   - Hoang Anh Duy Le*
   - Shaochen Zhong*
-  - Yifan Lu
+  - **Yifan Lu**
   - Yingtong Dou
   - Jiayi Yuan
   - Yu-Neng Chuang
