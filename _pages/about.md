@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Hello! I am Yifan Lu, a final-year undergraduate student at [Rice University](https://www.rice.edu/), advised by [Xia Hu](https://cs.rice.edu/~xh37/index.html). My research interest is to build reliable, efficient, and interpretable AI systems, mostly LLMs.
+My name is Yifan (Louie) Lu, a First-year PhD student at [Rice University](https://www.rice.edu/), advised by [Xia Hu](https://cs.rice.edu/~xh37/index.html). My research interest is to build reliable, efficient, and interpretable AI systems, mostly LLMs.
 
 <span style="color: red; font-size: 1.5em;"><strong>I am actively looking for a PhD position for the 24/25 application cycle (Fall 2025).</strong></span>
 
@@ -16,6 +16,12 @@ Hello! I am Yifan Lu, a final-year undergraduate student at [Rice University](ht
 
 ### Publications
 I have contributed to several research projects in the areas of LLMs, graph computation, and data-centric machine learning. You can view my publications [here](https://yl231.github.io/publications/).
+
+
+---
+
+### Curriculum Vitae
+For a detailed view of my academic and professional journey, including my research projects, publications, and awards, please check out my [CV](https://yl231.github.io/cv/).
 
 ---
 
@@ -25,12 +31,3 @@ Teaching has been an integral part of my academic journey. I have served as a te
 - [Linear Algebra](https://yl231.github.io/teaching/) - Spring 2022
 
 Find more about my teaching experience [here](https://yl231.github.io/teaching/).
-
----
-
-### Curriculum Vitae
-For a detailed view of my academic and professional journey, including my research projects, publications, and awards, please check out my [CV](https://yl231.github.io/cv/).
-
----
-
-Thank you for visiting my webpage! Feel free to explore more about my research and reach out if you'd like to collaborate.

@@ -19,11 +19,5 @@ review_status: "Accepted to Workshop, Under Review for ICLR 2026"
 layout: publication
 category: inSubmission
 comments: |
-  This paper identifies critical limitations in current LLM routing evaluation and proposes a novel evaluation framework. Key contributions:
-  - Identifies three major limitations: limited task diversity, imbalanced model pools, and oversimplified evaluation methodologies
-  - Proposes a novel evaluation framework with diverse task distributions and balanced model pools
-  - Implements an open-source benchmark with multi-faceted metrics for real-world deployment scenarios
-  - **Accepted to NeurIPS 2025 LLM Evaluation Workshop**
-  - Currently under review for ICLR 2026
-  - OpenReview link: [OpenReview](https://openreview.net/forum?id=EEPostHMtF)
+  Accepted to NeurIPS 2025 LLM Evaluation Workshop. Under review for ICLR 2026.
 ---

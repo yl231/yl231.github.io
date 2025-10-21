@@ -25,8 +25,5 @@ review_status: "Accepted"
 layout: publication
 category: conferences
 comments: |
-  This paper introduces **MQuAKE-Remastered**, a novel framework for multi-hop knowledge editing. Our study highlights the importance of reliable evaluations in advancing multi-hop knowledge systems.
-  - **Accepted to ICLR 2025 as a Spotlight paper** 🎉
-  - OpenReview link: [OpenReview](https://openreview.net/forum?id=m9wG6ai2Xk)
-  - The paper reveals that up to 33% or 76% of MQuAKE's questions and ground truth labels are corrupted, providing a comprehensive audit, fix, and re-benchmark.
+  Accepted to ICLR 2025 as a Spotlight paper.
 ---
