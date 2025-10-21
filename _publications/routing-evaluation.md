@@ -2,7 +2,7 @@
 title: "Who Routes the Router: Rethinking the Evaluation of LLM Routing Systems"
 collection: publications
 permalink: /publications/routing-evaluation/
-date: 2025-09-24
+date: 2024-09-24
 authors:
   - Jiayi Yuan*
   - Yifan Lu*

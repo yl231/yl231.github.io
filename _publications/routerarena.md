@@ -2,7 +2,7 @@
 title: "RouterArena: An Open Platform for Comprehensive Comparison of LLM Routers"
 collection: publications
 permalink: /publications/routerarena/
-date: 2025-09-30
+date: 2024-10-01
 authors:
   - Yifan Lu*
   - Rixin Liu*

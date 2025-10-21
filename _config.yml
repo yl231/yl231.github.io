@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "About Me"
 title_separator          : "-"
-name                     : &name "Yifan Lu"
+name                     : &name "Yifan Lu 陆一凡"
 description              : &description "personal description"
 url                      : https://yl231.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

@@ -2,7 +2,7 @@
 title: "FAFO: Lossless KV Cache Compression with Draftless Fumble Decoding"
 collection: publications
 permalink: /publications/fafo/
-date: 2025-05-01
+date: 2024-11-01
 authors:
   - Hoang Anh Duy Le*
   - Shaochen Zhong*
