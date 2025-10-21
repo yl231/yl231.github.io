@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Louie Lu 1.jpg"
+  avatar           : "louie01.png"
   name             : "Yifan Lu"
   pronouns         : # example: "she/her"  
   bio              : "First-Year PhD student from Rice Univerity adviced by Prof. Xia (Ben) Hu. Due to Prof. Hu's leave of Rice, I am actively seeking for PhD position for Fall 2026 with a research focus on LLM, Multi-Model Collaboration, and ML efficiency."
