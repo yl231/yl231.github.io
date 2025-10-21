@@ -8,26 +8,17 @@ redirect_from:
 ---
 
 
-My name is Yifan (Louie) Lu, a First-year PhD student at [Rice University](https://www.rice.edu/), advised by [Xia Hu](https://cs.rice.edu/~xh37/index.html). My research interest is to build reliable, efficient, and interpretable AI systems, mostly LLMs.
+I am Yifan (Louie) Lu, a first-year PhD student at Rice University, advised by [Xia Hu](https://cs.rice.edu/~xh37/index.html). I completed my Bachelor's degree at Rice University, where I was fortunate to work with Prof. Hu. My research interests focus on multi-agent collaboration and the efficiency challenges associated with it. My current research direction centers on building next-generation LLM/Agent routing systems. 
 
-<span style="color: red; font-size: 1.5em;"><strong>I am actively looking for a PhD position for the 24/25 application cycle (Fall 2025).</strong></span>
+Due to Prof. Hu's recent leave from Rice, I will be primarily working with [Jiarong Xing](https://jxing.me/) this academic year. Meanwhile, I am actively seeking PhD position for Fall 26 outside of Rice University. 
+
 
 ---
-
 ### Publications
-I have contributed to several research projects in the areas of LLMs, graph computation, and data-centric machine learning. You can view my publications [here](https://yl231.github.io/publications/).
+For a list of publications, please see [here](https://yl231.github.io/publications/).
 
 
 ---
 
 ### Curriculum Vitae
-For a detailed view of my academic and professional journey, including my research projects, publications, and awards, please check out my [CV](https://yl231.github.io/cv/).
-
----
-
-### Teaching Experience
-Teaching has been an integral part of my academic journey. I have served as a teaching assistant for multiple courses, including:
-- [Algorithms and Data Structures](https://yl231.github.io/teaching/) - Spring 2023, Fall 2023, Fall 2024
-- [Linear Algebra](https://yl231.github.io/teaching/) - Spring 2022
-
-Find more about my teaching experience [here](https://yl231.github.io/teaching/).
+For a detailed view of my academic and professional journey, including my research projects, publications, and awards, please check out my [CV](https://yl231.github.io/files/cv.pdf).

@@ -11,10 +11,7 @@ authors:
   - Shenrun Zhang
   - Hongyi Liu
   - Jiarong Xing
-venue: "arXiv Preprint"
-review_status: "Under Review for ICLR 2026"
+status: "Under Review for ICLR 2026; arXiv: [2510.00202](https://arxiv.org/abs/2510.00202)"
 layout: publication
 category: inSubmission
-comments: |
-  Under review for ICLR 2026.
 ---

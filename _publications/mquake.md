@@ -20,10 +20,7 @@ authors:
   - Louis Feng
   - Vipin Chaudhary
   - Xia Hu
-venue: "ICLR 2025 (Spotlight)"
-review_status: "Accepted"
+status: "ICLR 2025 (Spotlight)"
 layout: publication
 category: conferences
-comments: |
-  Accepted to ICLR 2025 as a Spotlight paper.
 ---

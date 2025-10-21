@@ -14,10 +14,7 @@ authors:
   - Guanchu Wang
   - Yuzhong Chen
   - Xia Hu
-venue: "Under Review"
-review_status: "ICLR 2026 In Submission"
+status: "ICLR 2026 In Submission"
 layout: publication
 category: inSubmission
-comments: |
-  Under review for ICLR 2026.
 ---
