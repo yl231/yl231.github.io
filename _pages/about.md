@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 
-I am Yifan (Louie) Lu, a first-year PhD student at Rice University, advised by Prof. [Xia Hu](https://cs.rice.edu/~xh37/index.html). I completed my Bachelor's degree at Rice University, where I was fortunate to work with Prof. Hu. My research interests focus on multi-agent collaboration and the efficiency challenges associated with it. My current research direction centers on building next-generation LLM/Agent routing systems.
+I am Yifan (Louie) Lu, a first-year PhD student at Rice University, advised by Prof. [Xia Hu](https://cs.rice.edu/~xh37/index.html). However, due to Prof. Hu's leave of Rice, I am currently working with Prof. [Jiarong Xing](https://jxing.me/) on LLM routing. Prior to that, I completed my Bachelor's degree at Rice University, where I was fortunate to work with Prof. Hu. My research interests focus on multi-agent collaboration and the efficiency challenges associated with it. My current research direction centers on building next-generation LLM/Agent routing systems.
 
-Due to Prof. Hu's recent leave from Rice, I am working with Prof. [Jiarong Xing](https://jxing.me/) this semester on LLM routing. Meanwhile, I am open to a PhD position for Fall 26 outside of Rice University.
+I am open to a PhD position for the Fall 26 cycle outside of Rice.
 
 
 ---
